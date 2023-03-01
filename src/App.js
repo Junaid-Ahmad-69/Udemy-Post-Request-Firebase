@@ -94,3 +94,7 @@ export default App;
 
 // Django restfull api
 // https://swapi.dev/api/films/
+
+
+// Django Api to get the  data form restful, api and also connect with firebase realtime database to make set the post request using header crops and handler the
+// error using the handling state.
